@@ -10,3 +10,5 @@
 - ![MQTT](https://img.shields.io/badge/MQTT-00A3E0?style=flat&logo=MQTT&logoColor=white)
 - ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=flat&logo=React&logoColor=white)
 - ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=flat&logo=Express&logoColor=white)
+- ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat&logo=Blockchain&logoColor=white)
+- ![Hyperledger Fabric](https://img.shields.io/badge/Hyperledger%20Fabric-2F3DC4?style=flat&logo=Hyperledger&logoColor=white)
